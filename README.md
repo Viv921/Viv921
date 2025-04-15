@@ -36,7 +36,7 @@ I'm just another python dev interesting in AI.
 
 <div align="center">
   <!-- GitHub readme stats for fun visualization -->
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Viv921&show_icons=true&theme=radical" alt="GitHub Stats">
 </div>
 
 ---
