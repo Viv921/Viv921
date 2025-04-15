@@ -1,11 +1,55 @@
-<h1 align="center">Hi 👋, I'm Viv</h1>
-<h3 align="center">Just another python dev</h3>
+# Hey there, I'm Viv! 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<div align="center">
+  <!-- Animated header GIF -->
+  <img src="https://media.giphy.com/media/PAQ8AP5LJpUny/giphy.gif" alt="Welcome Animation" width="400" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>	&nbsp;	&nbsp; <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>	&nbsp;	&nbsp; <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>	&nbsp; 	&nbsp;  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 	&nbsp;	&nbsp;<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+  <h2>Welcome to my personal repo</h2>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=viv921&show_icons=true&locale=en&layout=compact" alt="viv921" /></p>
+  <!-- Custom badges (find more at https://shields.io/) -->
+  <a href="https://github.com/Viv921">
+    <img src="https://img.shields.io/badge/Repo-Personal-brightgreen" alt="Repo Badge">
+  </a>
+  <a href="https://github.com/Viv921">
+    <img src="https://img.shields.io/badge/Language-Python-blue" alt="Language Badge">
+  </a>
+  <a href="https://github.com/Viv921">
+    <img src="https://img.shields.io/badge/OS-Cross%20Platform-orange" alt="OS Badge">
+  </a>
+</div>
+
+---
+
+## About Me
+
+I'm just another python dev interesting in AI.
+
+<!-- Animated GIF for a bit of fun -->
+<div align="center">
+  <img src="https://media.giphy.com/media/26FPJG6dK0aGQF8yY/giphy.gif" alt="Coding Animation" width="300" />
+</div>
+
+---
+
+
+## GitHub Stats
+
+<div align="center">
+  <!-- GitHub readme stats for fun visualization -->
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
+</div>
+
+---
+
+## How to Reach Me
+
+If you want to connect or collaborate, feel free to reach out!
+
+- 📧 Email: [Gmail](mailto:vivekgadhia1005@gmail.com)
+- 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/vivekgadhia/)
+
+---
+
+<div align="center">
+  <em>"Code is like art – beautiful, expressive, and ever evolving." </em>
+</div>
