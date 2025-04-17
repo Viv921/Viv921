@@ -22,7 +22,7 @@
 
 ## About Me
 
-I'm just another python dev interesting in AI.
+I'm just another python dev interested in AI.
 
 <!-- Animated GIF for a bit of fun -->
 <div align="center">
