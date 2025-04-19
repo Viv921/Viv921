@@ -43,6 +43,7 @@ I'm just another python dev interested in AI.
 ![Viv921's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Viv921&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 </div>
+
 ---
 
 ## How to Reach Me
