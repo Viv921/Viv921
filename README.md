@@ -36,7 +36,9 @@ I'm just another python dev interested in AI.
 
 <div align="center">
   <!-- GitHub readme stats for fun visualization -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Viv921&show_icons=true&theme=radical" alt="GitHub Stats">
+  ![Viv921's Stats](https://github-readme-stats.vercel.app/api?username=Viv921&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+  ![Viv921's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Viv921&theme=tokyonight&hide_border=true)
+  ![Viv921's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Viv921&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 </div>
 
 ---
