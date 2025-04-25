@@ -2,7 +2,9 @@
 
 <div align="center">
   <!-- Animated header GIF -->
-  <img src="https://media.giphy.com/media/PAQ8AP5LJpUny/giphy.gif" alt="Welcome Animation" width="400" />
+  <img src="https://media.gifdb.com/happy-satoru-gojo-wearing-blindfold-lirhdipkr6o5wmbu.gif" alt="gojo" width="400" />
+
+
 
   <h2>Welcome to my personal repo</h2>
 
@@ -26,7 +28,7 @@ I'm just another python dev interested in AI.
 
 <!-- Animated GIF for a bit of fun -->
 <div align="center">
-  <img src="https://media.giphy.com/media/26FPJG6dK0aGQF8yY/giphy.gif" alt="Coding Animation" width="300" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJrbjFiZjVyM2NuaHJjcWl0YTNnaGpwMWc0ZGJpczV2emZrMmt3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" alt="python" width="300" />
 </div>
 
 ---
