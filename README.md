@@ -2,7 +2,8 @@
 
 <div align="center">
   <!-- Animated header GIF -->
-  <img src="https://media.gifdb.com/happy-satoru-gojo-wearing-blindfold-lirhdipkr6o5wmbu.gif" alt="gojo" width="400" />
+  
+![Hi](https://github.com/Viv921/Viv921/blob/main/gojo.gif)
 
 
 
