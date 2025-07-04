@@ -59,5 +59,5 @@ If you want to connect or collaborate, feel free to reach out!
 ---
 
 <div align="center">
-  <em>"Code is like art – beautiful, expressive, and ever evolving." </em>
+  <em>"If it ain't Anime, what's the point?" </em>
 </div>
