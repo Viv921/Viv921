@@ -55,9 +55,3 @@ If you want to connect or collaborate, feel free to reach out!
 
 - 📧 Email: [Gmail](mailto:vivekgadhia1005@gmail.com)
 - 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/vivekgadhia/)
-
----
-
-<div align="center">
-  <em>"If it ain't Anime, what's the point?" </em>
-</div>
